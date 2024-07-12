@@ -29,8 +29,8 @@ The MNIST dataset consists of grayscale images of handwritten digits (0-9), with
 - Calculated accuracy on a validation set every 10 iterations.
   
 ### Results
-- **LeakyReLU + ELU**: Achieved accuracy of 89%.
-- **ReLU**: Achieved accuracy of 88.45%.
+- **LeakyReLU + ELU**: Achieved accuracy of 90.6%.
+- **ReLU**: Achieved accuracy of 91.3%.
 
 ## Mathematics
 ### Softmax Activation
